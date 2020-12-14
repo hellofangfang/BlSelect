@@ -1,0 +1,20 @@
+# 忽略目录
+examples/
+packages/
+public/
+dist/
+
+# 忽略指定文件
+vue.config.js
+babel.config.js
+*.map
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.editorconfig
+.eslintignore
+.eslintrc.js
